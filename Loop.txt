@@ -1,0 +1,4 @@
+//Syntax for Loop
+for(initilasation;condition;incremet/decrement){
+ //body
+}
